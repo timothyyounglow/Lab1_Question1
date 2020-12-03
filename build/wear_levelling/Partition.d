@@ -1,7 +1,7 @@
 Partition.o: \
  C:/esp/ESP8266_RTOS_SDK/components/wear_levelling/Partition.cpp \
  C:/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
- C:/esp/hello_world/build/include/sdkconfig.h \
+ C:/esp/Lab1_hello_world/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp8266/eagle_soc.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/driver/soc.h \
@@ -15,7 +15,7 @@ Partition.o: \
 
 C:/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h:
 
-C:/esp/hello_world/build/include/sdkconfig.h:
+C:/esp/Lab1_hello_world/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h:
 

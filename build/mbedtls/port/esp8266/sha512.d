@@ -1,7 +1,7 @@
 port/esp8266/sha512.o: \
  C:/esp/ESP8266_RTOS_SDK/components/mbedtls/port/esp8266/sha512.c \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/util_assert.h \
- C:/esp/hello_world/build/include/sdkconfig.h \
+ C:/esp/Lab1_hello_world/build/include/sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_sha.h \
  C:/esp/ESP8266_RTOS_SDK/components/log/include/esp_log.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/rom/ets_sys.h \
@@ -11,7 +11,7 @@ port/esp8266/sha512.o: \
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/util_assert.h:
 
-C:/esp/hello_world/build/include/sdkconfig.h:
+C:/esp/Lab1_hello_world/build/include/sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/esp_sha.h:
 

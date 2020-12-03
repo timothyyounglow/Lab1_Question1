@@ -1,6 +1,6 @@
 src/esp_image_format.o: \
  C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/src/esp_image_format.c \
- c:\esp\hello_world\build\include\sdkconfig.h \
+ c:\esp\lab1_hello_world\build\include\sdkconfig.h \
  C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_image_format.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp_common/include/esp_err.h \
  C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_flash_partitions.h \
@@ -17,7 +17,7 @@ src/esp_image_format.o: \
  C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_random.h \
  C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/include_priv/bootloader_sha.h
 
-c:\esp\hello_world\build\include\sdkconfig.h:
+c:\esp\lab1_hello_world\build\include\sdkconfig.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/bootloader_support/include/esp_image_format.h:
 

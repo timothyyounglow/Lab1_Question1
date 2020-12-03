@@ -12,7 +12,7 @@ src/packet.o: C:/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/src/packet.c \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-isa.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-matmap.h \
  C:/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h \
- C:/esp/hello_world/build/include/sdkconfig.h
+ C:/esp/Lab1_hello_world/build/include/sdkconfig.h
 
 C:/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/private_include/esp_gdbstub_common.h:
 
@@ -40,5 +40,5 @@ C:/esp/ESP8266_RTOS_SDK/components/esp8266/include/xtensa/config/core-matmap.h:
 
 C:/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/esp8266/gdbstub_target_config.h:
 
-C:/esp/hello_world/build/include/sdkconfig.h:
+C:/esp/Lab1_hello_world/build/include/sdkconfig.h:
 /c/esp/ESP8266_RTOS_SDK/components/esp_gdbstub/src/packet.c:
